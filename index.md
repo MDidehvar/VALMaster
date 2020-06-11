@@ -1,4 +1,4 @@
-[Split](https://mdidehvar.github.io/VALMaster/split)
+[Split](https://mdidehvar.github.io/VALMaster/split.md)
 
 ## MAP - BIND
 ### A Push
