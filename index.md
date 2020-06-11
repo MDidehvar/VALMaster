@@ -1,6 +1,5 @@
-## MAP // BIND
+## MAP - BIND
 ### A Push
-
 
 [Split](https://github.com/MDidehvar/VALMaster/blob/master/Split)
 
