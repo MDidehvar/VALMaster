@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Valorant Strategy Book
 
 You can use the [editor on GitHub](https://github.com/MDidehvar/VALMaster/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
